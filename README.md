@@ -1,5 +1,9 @@
 # D597-AllTasks-Relational-and-Non-Relational-Database-Design
 
+Project Summary:
+Relational Database Design – EcoMart (PostgreSQL)
+  - 
+
 1. README.md - A file describing other files in this repository.
 
 2. D597 Task 1 Final.docx - A Word document file that contains the report for Task 1.
