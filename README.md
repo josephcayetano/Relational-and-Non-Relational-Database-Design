@@ -1,4 +1,6 @@
 # D597-AllTasks-Relational-and-Non-Relational-Database-Design
+### Overview
+This project showcases relational and non-relational database design using PostgreSQL and MongoDB. I developed and queried a normalized relational schema and implemented a document-oriented NoSQL database to manage large datasets and support analytical queries.
 
 ### Relational Database Design Task 1 – EcoMart (PostgreSQL)
   -	Developed a normalized relational database (Sales Order, Items, Region tables) to reduce data redundancy and improve query performance.
