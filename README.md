@@ -3,12 +3,12 @@
 This project showcases relational and non-relational database design using PostgreSQL and MongoDB. I developed and queried a normalized relational schema and implemented a document-oriented NoSQL database to manage large datasets and support analytical queries.
 
 ### Relational Database Design Task 1 – EcoMart (PostgreSQL)
-  -	Developed a normalized relational database (Sales Order, Items, Region tables) to reduce data redundancy and improve query performance.
-  -	Wrote SQL queries and applied indexing to analyze sales trends, inventory, and delays, improving execution time by ~15%.
+  -	Designed and implemented a normalized relational database (Sales Order, Items, Region tables) to reduce data redundancy and improve performance.
+  -	Wrote advanced SQL queries and applied indexing to analyze sales trends, inventory levels, and shipping delays, reducing query execution time by ~15%.
 
 ### NoSQL Database Implementation Task 2 – EcoMart (MongoDB)
-  - Built a document-oriented database to manage dynamic product catalogs (cosmetics, groceries), importing 38,000+ records.
-  - Optimized query performance by creating indexes (up to 90% faster) and implemented data transformations (e.g., arrays).
+  - Built a document-oriented MongoDB database to support a dynamic product catalog (cosmetics and groceries), importing over 38,000 records.
+  - Enhanced performance by implementing indexing (up to 90% faster) and performed data transformations (e.g., converting nested ingredient fields to arrays).
 
 ### Files
 1. README.md - A file describing other files in this repository.
