@@ -1,10 +1,10 @@
 # D597-AllTasks-Relational-and-Non-Relational-Database-Design
 
-Relational Database Design Task 1 – EcoMart (PostgreSQL)
+### Relational Database Design Task 1 – EcoMart (PostgreSQL)
   -	Developed a normalized relational database (Sales Order, Items, Region tables) to reduce data redundancy and improve query performance.
   -	Wrote SQL queries and applied indexing to analyze sales trends, inventory, and delays, improving execution time by ~15%.
 
-NoSQL Database Implementation Task 2 – EcoMart (MongoDB)
+### NoSQL Database Implementation Task 2 – EcoMart (MongoDB)
   - Built a document-oriented database to manage dynamic product catalogs (cosmetics, groceries), importing 38,000+ records.
   - Optimized query performance by creating indexes (up to 90% faster) and implemented data transformations (e.g., arrays).
 
