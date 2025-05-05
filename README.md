@@ -8,7 +8,7 @@ NoSQL Database Implementation Task 2 – EcoMart (MongoDB)
   - Built a document-oriented database to manage dynamic product catalogs (cosmetics, groceries), importing 38,000+ records.
   - Optimized query performance by creating indexes (up to 90% faster) and implemented data transformations (e.g., arrays).
 
-
+Files:
 1. README.md - A file describing other files in this repository.
 
 2. D597 Task 1 Final.docx - A Word document file that contains the report for Task 1.
