@@ -1,4 +1,4 @@
-# Relational-and-Non-Relational-Database-Design
+# Relational and Non-Relational Database Design
 ### Overview
 This project showcases relational and non-relational database design using PostgreSQL and MongoDB. I developed and queried a normalized relational schema and implemented a document-oriented NoSQL database to manage large datasets and support analytical queries.
 
