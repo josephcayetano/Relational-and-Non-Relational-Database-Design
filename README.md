@@ -1,14 +1,14 @@
 # Relational and Non-Relational Database Design
 ### Overview
-This project showcases relational and non-relational database design using PostgreSQL and MongoDB. I developed and queried a normalized relational schema and implemented a document-oriented NoSQL database to manage large datasets and support analytical queries.
+This project highlights how I used both relational and NoSQL databases to manage and analyze large datasets using PostgreSQL and MongoDB.
 
 ### Relational Database Design Task 1 – EcoMart (PostgreSQL)
-  -	Designed and implemented a normalized relational database (Sales Order, Items, Region tables) to reduce data redundancy and improve performance.
-  -	Wrote advanced SQL queries and applied indexing to analyze sales trends, inventory levels, and shipping delays, reducing query execution time by ~15%.
+  -	Created a clean, organized database with linked tables (e.g., Sales, Items, Region) to reduce duplicates and speed up performance
+  -	Wrote complex SQL queries and added indexing to track sales, inventory, and shipping delays, making queries about 15% faster
 
 ### NoSQL Database Implementation Task 2 – EcoMart (MongoDB)
-  - Built a document-oriented MongoDB database to support a dynamic product catalog (cosmetics and groceries), importing over 38,000 records.
-  - Enhanced performance by implementing indexing (up to 90% faster) and performed data transformations (e.g., converting nested ingredient fields to arrays).
+  - Built a flexible MongoDB database for a product catalog with over 38,000 records (cosmetics and groceries)
+  - Used indexing to improve performance (up to 90% faster) and cleaned data by converting nested fields into readable arrays
 
 ### Files
 1. README.md - A file describing other files in this repository.
